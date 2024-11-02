@@ -16,3 +16,13 @@
 // const check=(a+b);
 
 // console.log(check);
+
+//let 
+// let a=15;
+// a=16;
+// a=52;
+// console.log(a);
+// var
+// a=16;//hosting
+// let a=15;
+// console.log(a);
