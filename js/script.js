@@ -30,20 +30,20 @@
 
 
 // // Komilov Umarali
-// let adhamOgirlik = 78,
-//   adghamBuy = 1.69,
-//   sardorOgirlik = 95,
-//   sardorBuy = 1.76;
-// let adhamBMI = adhamOgirlik / adghamBuy;
-// let sardorBMI = sardorOgirlik / sardorBuy;
-// let BMI1 = adhamBMI < sardorBMI;
-// console.log(BMI1);
+let adhamOgirlik = 78,
+  adghamBuy = 1.69,
+  sardorOgirlik = 95,
+  sardorBuy = 1.76;
+let adhamBMI = adhamOgirlik / adghamBuy;
+let sardorBMI = sardorOgirlik / sardorBuy;
+let BMI1 = adhamBMI < sardorBMI;
+console.log(BMI1);
 
-// let adhamOgirlik1 = 85,
-//   adghamBuy1 = 1.76,
-//   sardorOgirlik1 = 95,
-//   sardorBuy1 = 1.88;
-// let adhamBMI1 = adhamOgirlik1 / adghamBuy1;
-// let sardorBMI1 = sardorOgirlik1 / sardorBuy1;
-// let BMI2 = adhamBMI1 < sardorBMI1;
-// console.log(BMI2);
+let adhamOgirlik1 = 85,
+  adghamBuy1 = 1.76,
+  sardorOgirlik1 = 95,
+  sardorBuy1 = 1.88;
+let adhamBMI1 = adhamOgirlik1 / adghamBuy1;
+let sardorBMI1 = sardorOgirlik1 / sardorBuy1;
+let BMI2 = adhamBMI1 < sardorBMI1;
+console.log(BMI2);
